@@ -1,16 +1,10 @@
 # getx_todo_local_storage
 
-A new Flutter project.
+A simple To Do app using Getx state Management.
 
-## Getting Started
+## Future improvement : 
 
-This project is a starting point for a Flutter application.
+Including saving of Todos in local Storage of the phone.
 
-A few resources to get you started if this is your first Flutter project:
+<img width="336" alt="Screenshot 2025-02-24 at 20 53 53" src="https://github.com/user-attachments/assets/3abffbaf-30c4-484a-bd47-38bbf3fbfd69" /><img width="336" alt="Screenshot 2025-02-24 at 20 54 34" src="https://github.com/user-attachments/assets/c1a2bac8-daeb-4852-af04-e9303f2c6489" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
