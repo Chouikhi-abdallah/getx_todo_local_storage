@@ -45,7 +45,7 @@ class FormDialog extends StatelessWidget {
                             toDoController.addToDo(
                               ToDo(title: entredToDotitle.value, isDone: false),
                             );
-                            Get.back();  
+                            Get.back();
                           },
                           backgroundColor: Colors.yellow[500],
                           shape: ContinuousRectangleBorder(),
@@ -54,7 +54,7 @@ class FormDialog extends StatelessWidget {
                         SizedBox(width: 14),
                         FloatingActionButton(
                           onPressed: () {
-                            Get.back();  // Close the dialog
+                            Get.back(); // Close the dialog
                           },
                           shape: ContinuousRectangleBorder(),
                           backgroundColor: Colors.yellow[500],
